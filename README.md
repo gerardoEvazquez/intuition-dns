@@ -32,7 +32,7 @@ While logged in to the client as an admin, open the command prompt. When we ping
 <p>
 <img src="https://i.imgur.com/sBriF8C.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/E6ZkOfq.png" height="80%" width="80%" alt="DNS Steps"/>
-<img src="https://i.imgur.com/ds0SCKW.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/eNZHN9l.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/d4cXTCS.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>

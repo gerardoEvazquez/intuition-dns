@@ -21,7 +21,7 @@ This lab focuses on DNS and how it is used. DNS is a fundamental concept in IT a
 
 <p>
 <img src="https://i.imgur.com/5pjgtVz.png" height="80%" width="80%" alt="DNS Steps"/>
-<img src="https://i.imgur.com/Zl04Jyt.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/NFsUC1q.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/96xUgLF.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>

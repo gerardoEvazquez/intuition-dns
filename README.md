@@ -33,7 +33,7 @@ While logged in to the client as an admin, open the command prompt. When we ping
 <img src="https://i.imgur.com/sBriF8C.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/E6ZkOfq.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/eNZHN9l.png" height="80%" width="80%" alt="DNS Steps"/>
-<img src="https://i.imgur.com/d4cXTCS.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/s2aYNci.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>
 This next exercise will showcase the DNS cache. On the domain controller, I changed mainframe's record address to 8.8.8.8 (Google) and refreshed the DNS server. When pinging mainframe on the client, it will still ping the old IP address. When the command ipconfig /displaydns is run, it will reveal that the DNS cache still has the old IP. In order to update the cache, we need to clear it. The command ipconfig /flushdns will empty the cache so that when we ping mainframe again, the IP address will be updated to the new one on the client side. When pinging mainframe, the new IP address of the record will show.

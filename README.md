@@ -41,7 +41,7 @@ This next exercise will showcase the DNS cache. On the domain controller, I chan
 <br />
 
 <p>
-<img src="https://i.imgur.com/rI2NYU7.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/7i7zD5m.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/FmVM0IU.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/dyWduSW.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
